@@ -1,0 +1,27 @@
+{
+  "name": "simple-crud-rest-api-with-nodejs-expressjs",
+  "version": "1.0.0",
+  "description": "Full CRUD REST API using NodeJS & ExpressJS",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0der-himel/Simple-CRUD-REST-API-with-NodeJS-ExpressJS.git"
+  },
+  "author": "Himel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c0der-himel/Simple-CRUD-REST-API-with-NodeJS-ExpressJS/issues"
+  },
+  "homepage": "https://github.com/c0der-himel/Simple-CRUD-REST-API-with-NodeJS-ExpressJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
